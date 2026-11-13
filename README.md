@@ -7,6 +7,7 @@ Contains practice questions of Data Structures, Algorithms and SQL for Interview
 - [Backtracking](./Backtracking)
 - [Binary Search](./BinarySearch)
 - [Bit Manipulation](./BitManipulation)
+- [Concurrency](./Concurrency)
 - [Design](./Design)
 - [Dynamic Programming](./DynamicProgramming)
 - [Graph](./Graph)
